@@ -1,0 +1,2 @@
+Hello this my first test in git
+this is the basic practice for git
